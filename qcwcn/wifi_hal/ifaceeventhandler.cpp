@@ -29,6 +29,7 @@
 #include "sync.h"
 #define LOG_TAG  "WifiHAL"
 #include <utils/Log.h>
+#include <errno.h>
 #include <time.h>
 
 #include "ifaceeventhandler.h"

@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <errno.h>
 #include <stdlib.h>
 #include <linux/pkt_sched.h>
 #include <netlink/object-api.h>
